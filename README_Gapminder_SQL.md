@@ -1,8 +1,7 @@
 # 🌍 Global Development Analysis (1952–2007) — SQL Project
 
 **Author:** Muwahid Munshi  
-**Dataset:** Gapminder Foundation — [gapminder.org](https://www.gapminder.org)  
-**Tool:** SQLite (compatible with MySQL & PostgreSQL)  
+**Dataset:** Gapminder Foundation — [gapminder.org](https://www.gapminder.org)   
 **Records:** 1,704 rows | 142 countries | 5 continents | 55 years of data
 
 ---
